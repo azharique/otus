@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("3 commit")
+	fmt.Println("4 commit")
 }
