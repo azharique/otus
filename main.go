@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("New commit for pull request")
+	fmt.Println("Darkhan push commit")
 }
