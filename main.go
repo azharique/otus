@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Darkhan push commit")
+	fmt.Println("Azhar push commit")
 }
